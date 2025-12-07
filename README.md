@@ -14,7 +14,7 @@ Este proyecto es el backend para una aplicación de gestión de perfiles de usua
 
 1.  **Clonar el repositorio:**
     ```bash
-    git clone <TU_URL_DEL_REPO>
+    git clone https://github.com/kserey/skillnest-m8-final
     cd portafolio-api
     ```
 
