@@ -62,5 +62,5 @@ El servidor correrá en: `http://localhost:3000`
 * Express-Fileupload
 * Dotenv
 
----
-Desarrollado para el Bootcamp Full Stack JavaScript.
+## ✍🏽Autor
+Irina Serey - Desarrolladora Full Stack en formación
